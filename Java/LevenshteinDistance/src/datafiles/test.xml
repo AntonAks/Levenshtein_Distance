@@ -1,0 +1,2052 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Аксенов Антон</Author>
+  <LastAuthor>Аксенов Антон</LastAuthor>
+  <Created>2016-11-15T14:21:39Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9045</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="500" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">741</Data></Cell>
+    <Cell><Data ss:Type="String">Hipp чай для повышения лактац бан 200 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">859</Data></Cell>
+    <Cell><Data ss:Type="String">J&amp;J Дет.масло Классич.серия бут 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80614</Data></Cell>
+    <Cell><Data ss:Type="String">J&amp;J Дет.пена д/куп Перед Сном бут 300 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6556</Data></Cell>
+    <Cell><Data ss:Type="String">J&amp;J Присыпка дет.Классич. бан 100 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33636</Data></Cell>
+    <Cell><Data ss:Type="String">J&amp;J Прок.для груди упк №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90506</Data></Cell>
+    <Cell><Data ss:Type="String">L-Аргинин таб 1000мг №90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28909</Data></Cell>
+    <Cell><Data ss:Type="String">L-карнитин капс №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18915</Data></Cell>
+    <Cell><Data ss:Type="String">L-карнитин сир. 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18271</Data></Cell>
+    <Cell><Data ss:Type="String">L-карнитин таб 0.25г N40</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18272</Data></Cell>
+    <Cell><Data ss:Type="String">L-карнитин таб 0.25г N80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5450</Data></Cell>
+    <Cell><Data ss:Type="String">L-лизина эсцинат амп 0,1 % 5 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4710</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Б-Хем. таб 100 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84094</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Б-Хем. таб 125 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84095</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Б-Хем. таб 150 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4711</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Б-Хем. таб 50 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84093</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Б-Хем. таб 75 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">938</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Фармак таб 100 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7571</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Фармак таб 25 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4009</Data></Cell>
+    <Cell><Data ss:Type="String">L-Тироксин Фармак таб 50 мкг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32068</Data></Cell>
+    <Cell><Data ss:Type="String">L-цет сир 2,5 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86946</Data></Cell>
+    <Cell><Data ss:Type="String">L-цет сир 2,5 мг/5мл 60 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26727</Data></Cell>
+    <Cell><Data ss:Type="String">L-цет таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90507</Data></Cell>
+    <Cell><Data ss:Type="String">XL-Супер капс 300мг №12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90508</Data></Cell>
+    <Cell><Data ss:Type="String">XL-Супер капс 300мг №2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30313</Data></Cell>
+    <Cell><Data ss:Type="String">XL-Супер капс N4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3454</Data></Cell>
+    <Cell><Data ss:Type="String">Абактал таб 400 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70257</Data></Cell>
+    <Cell><Data ss:Type="String">Абикса таб 10 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32187</Data></Cell>
+    <Cell><Data ss:Type="String">Аброл SR таб 75 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31503</Data></Cell>
+    <Cell><Data ss:Type="String">Аброл сир 15мг 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31504</Data></Cell>
+    <Cell><Data ss:Type="String">Аброл сир 30 мг 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30365</Data></Cell>
+    <Cell><Data ss:Type="String">Аброл таб 30 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27826</Data></Cell>
+    <Cell><Data ss:Type="String">Абсолют капс N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4305</Data></Cell>
+    <Cell><Data ss:Type="String">Абъюфен таб 400 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27423</Data></Cell>
+    <Cell><Data ss:Type="String">Авамис назал.спрей спр 27,5 мкг 120 доз</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28933</Data></Cell>
+    <Cell><Data ss:Type="String">Авамис назал.спрей спр 27,5 мкг 30 доз</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6075</Data></Cell>
+    <Cell><Data ss:Type="String">Авелокс таб 400 мг №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90373</Data></Cell>
+    <Cell><Data ss:Type="String">Авеню таб 500 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90511</Data></Cell>
+    <Cell><Data ss:Type="String">Авеню таб 500 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11841</Data></Cell>
+    <Cell><Data ss:Type="String">Авиа-море таб №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29944</Data></Cell>
+    <Cell><Data ss:Type="String">Аводарт капс 0,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80209</Data></Cell>
+    <Cell><Data ss:Type="String">Аводарт капс 0,5 мг №90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1924</Data></Cell>
+    <Cell><Data ss:Type="String">Агапурин др 100мг N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29858</Data></Cell>
+    <Cell><Data ss:Type="String">Агапурин СР 400 таб 400 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28264</Data></Cell>
+    <Cell><Data ss:Type="String">Агапурин СР600 таб 600мг N20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31284</Data></Cell>
+    <Cell><Data ss:Type="String">Аген 10 таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31994</Data></Cell>
+    <Cell><Data ss:Type="String">Аген 5 таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86948</Data></Cell>
+    <Cell><Data ss:Type="String">Агерп крем 5 % 2 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20473</Data></Cell>
+    <Cell><Data ss:Type="String">Адаптер сетевой AD -1024с шт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">88880</Data></Cell>
+    <Cell><Data ss:Type="String">Адаптол капс 300 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7786</Data></Cell>
+    <Cell><Data ss:Type="String">Адаптол таб 300 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18954</Data></Cell>
+    <Cell><Data ss:Type="String">Адаптол таб 500 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11422</Data></Cell>
+    <Cell><Data ss:Type="String">Адвантан крем туба 0,1 % 15 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5564</Data></Cell>
+    <Cell><Data ss:Type="String">Адвантан мазь туба 0,1 % 15 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11421</Data></Cell>
+    <Cell><Data ss:Type="String">Адвантан эмульсия туба 0,1 % 20 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23767</Data></Cell>
+    <Cell><Data ss:Type="String">Адвокард таб 30 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25917</Data></Cell>
+    <Cell><Data ss:Type="String">Аденол фл 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5268</Data></Cell>
+    <Cell><Data ss:Type="String">Аденома-гран гр.гомеоп10г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26646</Data></Cell>
+    <Cell><Data ss:Type="String">Аденорм капс 0,4 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17208</Data></Cell>
+    <Cell><Data ss:Type="String">Аденостерид таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89693</Data></Cell>
+    <Cell><Data ss:Type="String">Аденурик таб 80 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90512</Data></Cell>
+    <Cell><Data ss:Type="String">Аджанта Стамина капс 620мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86947</Data></Cell>
+    <Cell><Data ss:Type="String">А-Дистон кап 50 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80268</Data></Cell>
+    <Cell><Data ss:Type="String">Адреналин амп 0,18 % 1 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Адреналин -Д амп 0,18 % 1 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90514</Data></Cell>
+    <Cell><Data ss:Type="String">Адриус капс №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30572</Data></Cell>
+    <Cell><Data ss:Type="String">Адюлакс р-р рект. амп 6,14 мл 7,5 мл №4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87295</Data></Cell>
+    <Cell><Data ss:Type="String">Аевит (20х3) капс №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4681</Data></Cell>
+    <Cell><Data ss:Type="String">Аевит капс 200 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5061</Data></Cell>
+    <Cell><Data ss:Type="String">Аевит капс 200 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4042</Data></Cell>
+    <Cell><Data ss:Type="String">Аекол фл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1046</Data></Cell>
+    <Cell><Data ss:Type="String">Аекол фл 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24765</Data></Cell>
+    <Cell><Data ss:Type="String">Азакс таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11131</Data></Cell>
+    <Cell><Data ss:Type="String">Азалептол Техн. таб 100 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16826</Data></Cell>
+    <Cell><Data ss:Type="String">Азалептол Техн. таб 25 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83044</Data></Cell>
+    <Cell><Data ss:Type="String">Азапин таб 100 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30573</Data></Cell>
+    <Cell><Data ss:Type="String">Азапин таб 25 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30360</Data></Cell>
+    <Cell><Data ss:Type="String">Азарга к/гл 5 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86697</Data></Cell>
+    <Cell><Data ss:Type="String">Азибиот КРКА таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18213</Data></Cell>
+    <Cell><Data ss:Type="String">Азиклар таб 500 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89956</Data></Cell>
+    <Cell><Data ss:Type="String">Азилект таб 1 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82113</Data></Cell>
+    <Cell><Data ss:Type="String">Азимед пор.д/пр.сусп. фл 200 мг/5мл 30 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32000</Data></Cell>
+    <Cell><Data ss:Type="String">Азимед таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90516</Data></Cell>
+    <Cell><Data ss:Type="String">Азитрал таб 500мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28522</Data></Cell>
+    <Cell><Data ss:Type="String">Азитро Сандоз пор.д/сусп фл 100 мг/5мл 20 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28523</Data></Cell>
+    <Cell><Data ss:Type="String">Азитро Сандоз пор.д/сусп фл 200 мг/5мл 20 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32873</Data></Cell>
+    <Cell><Data ss:Type="String">Азитро Сандоз таб 250 мг №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32874</Data></Cell>
+    <Cell><Data ss:Type="String">Азитро Сандоз таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91383</Data></Cell>
+    <Cell><Data ss:Type="String">Азитро Сандоз таб 500 мг №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">20639</Data></Cell>
+    <Cell><Data ss:Type="String">Азитрокс таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30543</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин Астрафарм капс 250 мг №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80529</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин Астрафарм капс 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28392</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин БХФЗ капс 250мг N6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12227</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин Здоровье капс 250мг N6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27606</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин Здоровье капс 500мг N3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27691</Data></Cell>
+    <Cell><Data ss:Type="String">Азитромицин КР капс 500мг N3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11834</Data></Cell>
+    <Cell><Data ss:Type="String">Азицин капс 250 мг №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">17052</Data></Cell>
+    <Cell><Data ss:Type="String">Азицин таб 500 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30199</Data></Cell>
+    <Cell><Data ss:Type="String">Азомекс Н таб 2,5 мг 12,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26641</Data></Cell>
+    <Cell><Data ss:Type="String">Азомекс Н таб 5 мг 12,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19951</Data></Cell>
+    <Cell><Data ss:Type="String">Азомекс таб 2,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19950</Data></Cell>
+    <Cell><Data ss:Type="String">Азомекс таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5625</Data></Cell>
+    <Cell><Data ss:Type="String">Азопт кап.гл 1% 5мл фл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83051</Data></Cell>
+    <Cell><Data ss:Type="String">Айлия фл 40 мг/мл 0,278 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27283</Data></Cell>
+    <Cell><Data ss:Type="String">Аира кореньВ пачк 50 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12471</Data></Cell>
+    <Cell><Data ss:Type="String">Аира кореньЛек пак 1,5 г №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2530</Data></Cell>
+    <Cell><Data ss:Type="String">Аира кореньЛек упк 100 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90517</Data></Cell>
+    <Cell><Data ss:Type="String">Аирбул капс 300мг №8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90518</Data></Cell>
+    <Cell><Data ss:Type="String">Аиртек аэр 25мкг/доза+125мкг/доза 120доз №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90519</Data></Cell>
+    <Cell><Data ss:Type="String">Аиртек аэр 25мкг/доза+50мкг/доза 120доз №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89957</Data></Cell>
+    <Cell><Data ss:Type="String">Аиртек аэр конт 25 мкг/доза+250мкг/доза 120 доз №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87474</Data></Cell>
+    <Cell><Data ss:Type="String">Ай-ти Эктоин к/гл 0,5 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96379</Data></Cell>
+    <Cell><Data ss:Type="String">Ай-ти Эктоин Про п/аллерг. кап 2% 0,5мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89639</Data></Cell>
+    <Cell><Data ss:Type="String">Акард таб 75 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83772</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис капли назал д/детей Ндс фл 10 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28255</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис Плюс назал спр 30 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33653</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис соль обогащ. морск саше №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70795</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис спрей наз.д/дет Ндс бал 50 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83742</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис спрей назал.Ндс фл 30 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84059</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Марис Стронг назал Ндс спр 30 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96382</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Спрей Плюс спр 3% 45мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96380</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Спрей спр 150мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87227</Data></Cell>
+    <Cell><Data ss:Type="String">Аква Спрей спрей назал 45 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90521</Data></Cell>
+    <Cell><Data ss:Type="String">Аквавит-Д3 р-р оральный кап 375мкг/мл 10мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18503</Data></Cell>
+    <Cell><Data ss:Type="String">Аквадетрим Витамин D3 р-р фл 15&#160;000 МЕ/мл 10 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96383</Data></Cell>
+    <Cell><Data ss:Type="String">Аквалорис с Д-пантенолом спр 45мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90522</Data></Cell>
+    <Cell><Data ss:Type="String">Аквамакс кап. назал. кап 0,65% 20мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90523</Data></Cell>
+    <Cell><Data ss:Type="String">Аквамакс спрей назал. 0,65% 100мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90524</Data></Cell>
+    <Cell><Data ss:Type="String">Аквамакс спрей назал. 0,65% 20мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90525</Data></Cell>
+    <Cell><Data ss:Type="String">Аквамакс спрей назал. 0,65% 50мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96194</Data></Cell>
+    <Cell><Data ss:Type="String">Аквила глазные капли конт 0,1 % 0,4 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96195</Data></Cell>
+    <Cell><Data ss:Type="String">Аквила глазные капли конт 0,18 % 0,4 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">81949</Data></Cell>
+    <Cell><Data ss:Type="String">Акк р-р однор. конт 50 мг/мл 2 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18621</Data></Cell>
+    <Cell><Data ss:Type="String">Аккузид таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18318</Data></Cell>
+    <Cell><Data ss:Type="String">Аккузид таб 20 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15415</Data></Cell>
+    <Cell><Data ss:Type="String">Аккупро таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">16857</Data></Cell>
+    <Cell><Data ss:Type="String">Аккупро таб 20 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32782</Data></Cell>
+    <Cell><Data ss:Type="String">Акневит капс №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27559</Data></Cell>
+    <Cell><Data ss:Type="String">Акнестоп крем 20% 30гр</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32158</Data></Cell>
+    <Cell><Data ss:Type="String">Акнетин капс 16 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33728</Data></Cell>
+    <Cell><Data ss:Type="String">Акнетин капс 8 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32941</Data></Cell>
+    <Cell><Data ss:Type="String">Аксастрол таб 1 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32159</Data></Cell>
+    <Cell><Data ss:Type="String">Аксетин пор д/пр инф р-ра фл 1,5 г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28135</Data></Cell>
+    <Cell><Data ss:Type="String">Аксеф таб 500 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70347</Data></Cell>
+    <Cell><Data ss:Type="String">Аксеф таб 500мг N20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70353</Data></Cell>
+    <Cell><Data ss:Type="String">Аксеф фл 750 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Актиферрин капли фл 30 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5030</Data></Cell>
+    <Cell><Data ss:Type="String">Актиферрин капс №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2762</Data></Cell>
+    <Cell><Data ss:Type="String">Актиферрин сир 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1767</Data></Cell>
+    <Cell><Data ss:Type="String">Актовегин амп 200 мг 5 мл №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25342</Data></Cell>
+    <Cell><Data ss:Type="String">Актовегин амп 400 мг 10 мл №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2441</Data></Cell>
+    <Cell><Data ss:Type="String">Актовегин амп 80 мг 2 мл №25</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4839</Data></Cell>
+    <Cell><Data ss:Type="String">Актовегин таб 200 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83840</Data></Cell>
+    <Cell><Data ss:Type="String">Акулий хрящ капс 0,5 г №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6360</Data></Cell>
+    <Cell><Data ss:Type="String">Акулий хрящ капс №100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18170</Data></Cell>
+    <Cell><Data ss:Type="String">Акулий хрящ капс. N50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83846</Data></Cell>
+    <Cell><Data ss:Type="String">Акулий хрящ крем туба 150 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32551</Data></Cell>
+    <Cell><Data ss:Type="String">Аладин таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90527</Data></Cell>
+    <Cell><Data ss:Type="String">Аладин таб 10мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32088</Data></Cell>
+    <Cell><Data ss:Type="String">Аладин таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90528</Data></Cell>
+    <Cell><Data ss:Type="String">Аладин таб 5мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29784</Data></Cell>
+    <Cell><Data ss:Type="String">Алактин таб 0,5 мг №2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30329</Data></Cell>
+    <Cell><Data ss:Type="String">Алактин таб 0,5 мг №8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86748</Data></Cell>
+    <Cell><Data ss:Type="String">Алвобак пор.д/р-ра д/ин. фл 1 г №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26930</Data></Cell>
+    <Cell><Data ss:Type="String">Алендра таб 70 мг №4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90531</Data></Cell>
+    <Cell><Data ss:Type="String">Алергомакс спрей назал. 15мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90532</Data></Cell>
+    <Cell><Data ss:Type="String">Алергомакс таб 5мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">94204</Data></Cell>
+    <Cell><Data ss:Type="String">Алердез сир 0,5мг/мл 100мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29629</Data></Cell>
+    <Cell><Data ss:Type="String">Алерзин кап 5 мг/мл 20 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29630</Data></Cell>
+    <Cell><Data ss:Type="String">Алерзин таб 5 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29793</Data></Cell>
+    <Cell><Data ss:Type="String">Алерзин таб 5 мг №7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27295</Data></Cell>
+    <Cell><Data ss:Type="String">Алерик таб 10 мг №7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90533</Data></Cell>
+    <Cell><Data ss:Type="String">Алернова дисперг. в рот. полости таб 5мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22106</Data></Cell>
+    <Cell><Data ss:Type="String">Алерон таб 5 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">22107</Data></Cell>
+    <Cell><Data ss:Type="String">Алерон таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90534</Data></Cell>
+    <Cell><Data ss:Type="String">Алерсис р-р оральный р-р 0,5мг/мл 60мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33091</Data></Cell>
+    <Cell><Data ss:Type="String">Алзепил таб 10 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31906</Data></Cell>
+    <Cell><Data ss:Type="String">Алзепил таб 5 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5312</Data></Cell>
+    <Cell><Data ss:Type="String">Алка-Зельтцер т/ш. №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5644</Data></Cell>
+    <Cell><Data ss:Type="String">Алкаин кап.гл.0.5%фл.15мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96389</Data></Cell>
+    <Cell><Data ss:Type="String">Алко-верт капс №8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82264</Data></Cell>
+    <Cell><Data ss:Type="String">Алкодез IC таб 500 мг №4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28550</Data></Cell>
+    <Cell><Data ss:Type="String">Алко-сорб пак 7.5г N12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23120</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергил Ндс кап 30 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4104</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергодил к/гл 0,05 % 6 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">34040</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергодил спр 10 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5791</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергокром к/гл 10 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83646</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергостоп таб 5 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90537</Data></Cell>
+    <Cell><Data ss:Type="String">Аллергостоп таб 5 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87483</Data></Cell>
+    <Cell><Data ss:Type="String">Аллертек таб 10 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87484</Data></Cell>
+    <Cell><Data ss:Type="String">Аллертек таб 10 мг №7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29485</Data></Cell>
+    <Cell><Data ss:Type="String">Аллопуринол Сандоз таб 100 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29823</Data></Cell>
+    <Cell><Data ss:Type="String">Аллопуринол Сандоз таб 300 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3455</Data></Cell>
+    <Cell><Data ss:Type="String">Аллопуринол таб 100 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29151</Data></Cell>
+    <Cell><Data ss:Type="String">Аллотон р-р д/внеш.прим. спр 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4986</Data></Cell>
+    <Cell><Data ss:Type="String">Аллохол таб №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86954</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель А сусп 10 мл №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86489</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель А сусп пак 10 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2750</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель А сусп фл 170 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10598</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель нео сусп 10 мл №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12025</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель Нео сусп пак 10 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10204</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель Нео сусп фл 170 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4830</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель сусп 170 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26823</Data></Cell>
+    <Cell><Data ss:Type="String">Алмагель Т таб 500 мг №24</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90538</Data></Cell>
+    <Cell><Data ss:Type="String">Алмиба р-р оральный р-р 100мг/мл 10мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5680</Data></Cell>
+    <Cell><Data ss:Type="String">Алмирал амп 75 мг 3 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70576</Data></Cell>
+    <Cell><Data ss:Type="String">Алора сир 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27986</Data></Cell>
+    <Cell><Data ss:Type="String">Алора таб 100 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4290</Data></Cell>
+    <Cell><Data ss:Type="String">Алором линимент 30г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80686</Data></Cell>
+    <Cell><Data ss:Type="String">Алотендин таб 10 мг 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83818</Data></Cell>
+    <Cell><Data ss:Type="String">Алотендин таб 5 мг 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80829</Data></Cell>
+    <Cell><Data ss:Type="String">Алотендин таб 5 мг 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33880</Data></Cell>
+    <Cell><Data ss:Type="String">Алоэ экстракт Биоф. амп 1 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">712</Data></Cell>
+    <Cell><Data ss:Type="String">Алоэ экстракт-Д амп 1 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6449</Data></Cell>
+    <Cell><Data ss:Type="String">Алпростан амп 0,2 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90543</Data></Cell>
+    <Cell><Data ss:Type="String">Алтейка Галичфарм таб 100мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18313</Data></Cell>
+    <Cell><Data ss:Type="String">Алтейка сир 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33324</Data></Cell>
+    <Cell><Data ss:Type="String">Алтейка т/ж 0,12 г №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90544</Data></Cell>
+    <Cell><Data ss:Type="String">Алтейка Тернофарм сир 200мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12043</Data></Cell>
+    <Cell><Data ss:Type="String">Алтея корень 75гр</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86665</Data></Cell>
+    <Cell><Data ss:Type="String">Алтея корень сир 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8124</Data></Cell>
+    <Cell><Data ss:Type="String">Алтива таб 180 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24905</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит 50+ таб N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86956</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит Детский сад таб</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70539</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит Диабет таб N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96390</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит Классик таб №120</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26096</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит Мама таб №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70195</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит таб N120</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2727</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит таб №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27959</Data></Cell>
+    <Cell><Data ss:Type="String">Алфавит Школьник таб N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82648</Data></Cell>
+    <Cell><Data ss:Type="String">Алфирум таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2195</Data></Cell>
+    <Cell><Data ss:Type="String">Алфлутоп амп 1 % 1 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32332</Data></Cell>
+    <Cell><Data ss:Type="String">Альба капс №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">98684</Data></Cell>
+    <Cell><Data ss:Type="String">Альбела таб 400 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">94207</Data></Cell>
+    <Cell><Data ss:Type="String">Альбензол т/ж 400мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6168</Data></Cell>
+    <Cell><Data ss:Type="String">Альбумин Биофарма р-р бут 10 % 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">85026</Data></Cell>
+    <Cell><Data ss:Type="String">Альбумин Биофарма р-р бут 10 % 50 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31872</Data></Cell>
+    <Cell><Data ss:Type="String">Альвирон амп 3 млнМЕ №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87261</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 150 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87262</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 150 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89963</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 150 мг №56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87263</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 75 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87264</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 75 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89964</Data></Cell>
+    <Cell><Data ss:Type="String">Альгерика капс 75 мг №56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91597</Data></Cell>
+    <Cell><Data ss:Type="String">Альготерм Альгогидра крем туба 50 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91612</Data></Cell>
+    <Cell><Data ss:Type="String">Альготерм Дуо Комфорт Мицеляр.вода бут 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29683</Data></Cell>
+    <Cell><Data ss:Type="String">Альдазол таб 400 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10349</Data></Cell>
+    <Cell><Data ss:Type="String">Алька-прим шипуч. таб №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26564</Data></Cell>
+    <Cell><Data ss:Type="String">Альмер таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24800</Data></Cell>
+    <Cell><Data ss:Type="String">Альмер таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27848</Data></Cell>
+    <Cell><Data ss:Type="String">Альтабор таб 20 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4611</Data></Cell>
+    <Cell><Data ss:Type="String">Альтан таб 10 мг №100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29111</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа Д3-Тева капс 0,5 мкг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6627</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа Д3-Тева капс 0.25мкг N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30993</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа Д3-Тева капс 1 мкг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">85033</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа Нормикс таб 200 мг №12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">92181</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа-Биселен капс №15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32517</Data></Cell>
+    <Cell><Data ss:Type="String">Альфаган П к/гл 1,5 мг/мл 5 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90546</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа-Липоевая кислота капс 60мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70681</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа-липон таб 300 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84361</Data></Cell>
+    <Cell><Data ss:Type="String">Альфа-липон таб 600 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28766</Data></Cell>
+    <Cell><Data ss:Type="String">Альфарекин фл 1 млнМЕ №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28552</Data></Cell>
+    <Cell><Data ss:Type="String">Альфарекин фл 3 млнМЕ №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90549</Data></Cell>
+    <Cell><Data ss:Type="String">Альфорт Декса таб 25мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86957</Data></Cell>
+    <Cell><Data ss:Type="String">Альцизон пор 2 г №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24492</Data></Cell>
+    <Cell><Data ss:Type="String">Амантин таб 100 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28208</Data></Cell>
+    <Cell><Data ss:Type="String">Амантин таб 100мг N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87259</Data></Cell>
+    <Cell><Data ss:Type="String">Амарил М СР таб 2 мг 500 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29862</Data></Cell>
+    <Cell><Data ss:Type="String">Амарил М таб 2 мг 500 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4719</Data></Cell>
+    <Cell><Data ss:Type="String">Амарил таб 2 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5817</Data></Cell>
+    <Cell><Data ss:Type="String">Амарил таб 3 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5363</Data></Cell>
+    <Cell><Data ss:Type="String">Амарил таб 4 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30322</Data></Cell>
+    <Cell><Data ss:Type="String">Амбовит диет.добавка фл 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1925</Data></Cell>
+    <Cell><Data ss:Type="String">Амбробене капс 75 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10788</Data></Cell>
+    <Cell><Data ss:Type="String">Амбробене р-р фл 7,5 мг/мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6453</Data></Cell>
+    <Cell><Data ss:Type="String">Амбробене р-р фл 7,5 мг/мл 40 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3216</Data></Cell>
+    <Cell><Data ss:Type="String">Амбробене сир 15 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4373</Data></Cell>
+    <Cell><Data ss:Type="String">Амбробене таб 30 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">70720</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол БХФЗ сир 30 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2741</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол БХФЗ таб 30мг N20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31721</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол Вишфа сир 15мг 100мг</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27125</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол Д таб 30 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31127</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол КВЗ таб 30 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28405</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол КМП таб 30 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19902</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол сир 15мг/5мл 100мл Борщаговский ХФЗ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2787</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол сироп фл 15 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31181</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол Терн. таб №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31134</Data></Cell>
+    <Cell><Data ss:Type="String">Амброксол Экстра таб 30мг N20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82322</Data></Cell>
+    <Cell><Data ss:Type="String">Амбролитин сироп фл 15 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18319</Data></Cell>
+    <Cell><Data ss:Type="String">Амбротард капс 75 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86610</Data></Cell>
+    <Cell><Data ss:Type="String">Амброхем сир 15 мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90552</Data></Cell>
+    <Cell><Data ss:Type="String">Амвастан таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86958</Data></Cell>
+    <Cell><Data ss:Type="String">Амвастан таб 20 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90553</Data></Cell>
+    <Cell><Data ss:Type="String">Амигрен капс 100мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31852</Data></Cell>
+    <Cell><Data ss:Type="String">Амигрен капс 50 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90554</Data></Cell>
+    <Cell><Data ss:Type="String">Амигрен капс 50мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32161</Data></Cell>
+    <Cell><Data ss:Type="String">Амидарон таб 200 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80797</Data></Cell>
+    <Cell><Data ss:Type="String">Амизон Макс капс 500 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23381</Data></Cell>
+    <Cell><Data ss:Type="String">Амизон таб 0,125 г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4684</Data></Cell>
+    <Cell><Data ss:Type="String">Амизон таб 0,25 г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23945</Data></Cell>
+    <Cell><Data ss:Type="String">Амизон таб 0,25 г №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33262</Data></Cell>
+    <Cell><Data ss:Type="String">Амизончик сир 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87281</Data></Cell>
+    <Cell><Data ss:Type="String">Амикацин сульфат амп 250 мг 2 мл №1 Лекхим</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87282</Data></Cell>
+    <Cell><Data ss:Type="String">Амикацин сульфат амп 250 мг 4 мл №1 Лекхим</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90555</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 0,06г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90556</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 0,06г №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90557</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 0,125г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90558</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 0,125г №6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15994</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 125 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15917</Data></Cell>
+    <Cell><Data ss:Type="String">Амиксин IC таб 60 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1079</Data></Cell>
+    <Cell><Data ss:Type="String">Аминазин амп 2.5% 2мл N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28456</Data></Cell>
+    <Cell><Data ss:Type="String">Аминазин Галич амп 2.5% 2мл N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3211</Data></Cell>
+    <Cell><Data ss:Type="String">Аминазин таб 100мг N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5005</Data></Cell>
+    <Cell><Data ss:Type="String">Аминазин таб 25 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3326</Data></Cell>
+    <Cell><Data ss:Type="String">Аминалон КВ таб 250 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24873</Data></Cell>
+    <Cell><Data ss:Type="String">Аминалон таб 250мг N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33512</Data></Cell>
+    <Cell><Data ss:Type="String">Аминалон таб 250мг N50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30306</Data></Cell>
+    <Cell><Data ss:Type="String">Аминовен Инфант фл 10 % 100 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12265</Data></Cell>
+    <Cell><Data ss:Type="String">Аминокапроновая к-та пор 1 г №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">977</Data></Cell>
+    <Cell><Data ss:Type="String">Аминокапроновая к-та р-р фл 5 % 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7411</Data></Cell>
+    <Cell><Data ss:Type="String">Аминол фл 8 % 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7412</Data></Cell>
+    <Cell><Data ss:Type="String">Аминол фл 8 % 400 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89966</Data></Cell>
+    <Cell><Data ss:Type="String">Аминостерил Н-ГЕПА р-р д/ин фл 500 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7998</Data></Cell>
+    <Cell><Data ss:Type="String">Амиодарон таб 200 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5819</Data></Cell>
+    <Cell><Data ss:Type="String">Амиокордин таб 200 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3977</Data></Cell>
+    <Cell><Data ss:Type="String">Амиокордин таб 200 мг №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90561</Data></Cell>
+    <Cell><Data ss:Type="String">Амиспирон IC таб 80 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4402</Data></Cell>
+    <Cell><Data ss:Type="String">Амитриптилин таб 25мг N50Технолог</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26205</Data></Cell>
+    <Cell><Data ss:Type="String">Амицил КМП фл 0.25г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26206</Data></Cell>
+    <Cell><Data ss:Type="String">Амицил КМП фл 0.5г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18541</Data></Cell>
+    <Cell><Data ss:Type="String">Амицил КМП фл 1г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">89778</Data></Cell>
+    <Cell><Data ss:Type="String">Амицитрон р-р саше пор №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83902</Data></Cell>
+    <Cell><Data ss:Type="String">Амлесса таб 4 мг 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83901</Data></Cell>
+    <Cell><Data ss:Type="String">Амлесса таб 4 мг 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83904</Data></Cell>
+    <Cell><Data ss:Type="String">Амлесса таб 8 мг 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83903</Data></Cell>
+    <Cell><Data ss:Type="String">Амлесса таб 8 мг 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90565</Data></Cell>
+    <Cell><Data ss:Type="String">Амлипин таб №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19914</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодил Босналек капс 5 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83944</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Астрафарм таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29262</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Астрафарм таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23759</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Здоровье таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19332</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Здоровье таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28406</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин КВЗ таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25418</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин КВЗ таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30847</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин КМП таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90566</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин КРКА таб 10мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83943</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Пфайзер таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33364</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Пфайзер таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">21294</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Технолог таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83942</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Технолог таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19310</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Фармак таб 10 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30893</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Фармак таб 10 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83945</Data></Cell>
+    <Cell><Data ss:Type="String">Амлодипин Фармак таб 5 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10313</Data></Cell>
+    <Cell><Data ss:Type="String">Амлонг таб 10мг N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9824</Data></Cell>
+    <Cell><Data ss:Type="String">Амлонг таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11831</Data></Cell>
+    <Cell><Data ss:Type="String">Амлоприл Дарница таб 10 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11832</Data></Cell>
+    <Cell><Data ss:Type="String">Амлоприл Дарница таб 5 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33362</Data></Cell>
+    <Cell><Data ss:Type="String">Амлостат таб №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">88902</Data></Cell>
+    <Cell><Data ss:Type="String">Аммиак раствор фл 10 % 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25825</Data></Cell>
+    <Cell><Data ss:Type="String">Аммиак раствор фл 10% 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1300</Data></Cell>
+    <Cell><Data ss:Type="String">Аммиак раствор фл 10% 40мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11002</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксиклав 2Х таб 500 мг 125 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10997</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксиклав 2Х таб 875 мг 125 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25923</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксиклав Квиктаб 875/125 мг таб №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82616</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксиклав сусп 250 /62.5мг/5мл 100 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1264</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксиклав фл 1&#160;000 мг 200 мг №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31006</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксил К таб 500 мг 125 мг №14</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31005</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксил К фл 1&#160;000 мг 200 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1485</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксил таб 250 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5651</Data></Cell>
+    <Cell><Data ss:Type="String">Амоксил таб 500 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7721</Data></Cell>
+    <Cell><Data ss:Type="String">Амписульбин фл 1,5 г №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25632</Data></Cell>
+    <Cell><Data ss:Type="String">Ампициллин тригидрат таб 250 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25782</Data></Cell>
+    <Cell><Data ss:Type="String">Ампициллин тригидрат таб 250 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1425</Data></Cell>
+    <Cell><Data ss:Type="String">Ампициллин фл 1 г №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2234</Data></Cell>
+    <Cell><Data ss:Type="String">Ампициллин фл 500 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26189</Data></Cell>
+    <Cell><Data ss:Type="String">Амприл HD таб 5 мг 25  №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28206</Data></Cell>
+    <Cell><Data ss:Type="String">Амприл HL таб 2,5 мг 12,5  №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24380</Data></Cell>
+    <Cell><Data ss:Type="String">Амприл таб 10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29835</Data></Cell>
+    <Cell><Data ss:Type="String">Амприл таб 2,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24530</Data></Cell>
+    <Cell><Data ss:Type="String">Амприл таб 5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4361</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин 50% 1мл N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4431</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин амп 50% 2мл N10 Здоровье</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">27127</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин Д амп 50 % 2 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28459</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин Д таб 500 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5967</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин дет супп 100 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28460</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин Зд таб 500мг N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28461</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин КрЗв таб 500мг N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30628</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин таб 0.5г N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4629</Data></Cell>
+    <Cell><Data ss:Type="String">Анальгин таб 500 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11828</Data></Cell>
+    <Cell><Data ss:Type="String">Анальдим супп 100 мг 10 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12056</Data></Cell>
+    <Cell><Data ss:Type="String">Анальдим супп 250 мг 20 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90570</Data></Cell>
+    <Cell><Data ss:Type="String">Анантавати таб №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5006</Data></Cell>
+    <Cell><Data ss:Type="String">Анаприлин таб 10 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4504</Data></Cell>
+    <Cell><Data ss:Type="String">Анаприлин таб 40 мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87450</Data></Cell>
+    <Cell><Data ss:Type="String">Анастрозол таб 1 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19952</Data></Cell>
+    <Cell><Data ss:Type="String">Анаферон д/взр. таб №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10743</Data></Cell>
+    <Cell><Data ss:Type="String">Анаферон д/дет. таб №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5739</Data></Cell>
+    <Cell><Data ss:Type="String">Анафранил таб 25 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19367</Data></Cell>
+    <Cell><Data ss:Type="String">Ангизар таб 50мг N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30346</Data></Cell>
+    <Cell><Data ss:Type="String">Ангилекс Здоровье д/полоск фл 120 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30545</Data></Cell>
+    <Cell><Data ss:Type="String">Ангилекс Здоровье спр фл 50 мл №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5659</Data></Cell>
+    <Cell><Data ss:Type="String">Ангин-гран гран 10 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32296</Data></Cell>
+    <Cell><Data ss:Type="String">Ангиноваг аэр 20 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4217</Data></Cell>
+    <Cell><Data ss:Type="String">Ангин-Хеель таб №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5552</Data></Cell>
+    <Cell><Data ss:Type="String">Ангио-инъель амп 1.1мл N5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">979</Data></Cell>
+    <Cell><Data ss:Type="String">Андипал В таб №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26650</Data></Cell>
+    <Cell><Data ss:Type="String">Андипал В таб №100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32371</Data></Cell>
+    <Cell><Data ss:Type="String">Андипал форте таб №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32202</Data></Cell>
+    <Cell><Data ss:Type="String">Андипал форте таб №100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5630</Data></Cell>
+    <Cell><Data ss:Type="String">Андрокур Депо амп 300 мг 3 мл №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11210</Data></Cell>
+    <Cell><Data ss:Type="String">Андрокур таб 50мг N50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24069</Data></Cell>
+    <Cell><Data ss:Type="String">Андрофарм амп 3 мл №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30920</Data></Cell>
+    <Cell><Data ss:Type="String">Андрофарм таб 50мг N20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">536</Data></Cell>
+    <Cell><Data ss:Type="String">Анестезол супп №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18860</Data></Cell>
+    <Cell><Data ss:Type="String">Анжелик таб №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30459</Data></Cell>
+    <Cell><Data ss:Type="String">Анзибел мед/лимон паст №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32858</Data></Cell>
+    <Cell><Data ss:Type="String">Анзибел ментол паст №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">31678</Data></Cell>
+    <Cell><Data ss:Type="String">Анзибел паст №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25712</Data></Cell>
+    <Cell><Data ss:Type="String">Анти-ангин формула д/расс. таб №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96394</Data></Cell>
+    <Cell><Data ss:Type="String">Антигнейс ср-во п/себор. д/новор. р-р 30мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5684</Data></Cell>
+    <Cell><Data ss:Type="String">Антигриппин д/детей т/ш. №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28483</Data></Cell>
+    <Cell><Data ss:Type="String">Антигриппин детский таб №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25489</Data></Cell>
+    <Cell><Data ss:Type="String">Антигриппин шипуч таб №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">32709</Data></Cell>
+    <Cell><Data ss:Type="String">Антигриппин шипуч таб со вкусом грейпфрута N10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30964</Data></Cell>
+    <Cell><Data ss:Type="String">Антикатарал пак №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18946</Data></Cell>
+    <Cell><Data ss:Type="String">Антимигрен таб 100 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">19918</Data></Cell>
+    <Cell><Data ss:Type="String">Антимигрен таб 50 мг №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18945</Data></Cell>
+    <Cell><Data ss:Type="String">Антимигрен таб 50 мг №3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">83243</Data></Cell>
+    <Cell><Data ss:Type="String">Антиполицай карамель 4*12 лед №48</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3968</Data></Cell>
+    <Cell><Data ss:Type="String">Антиседин фл 200 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">33791</Data></Cell>
+    <Cell><Data ss:Type="String">Антистресс капс 250мг N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4178</Data></Cell>
+    <Cell><Data ss:Type="String">Антистресс капс 250мг N60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4027</Data></Cell>
+    <Cell><Data ss:Type="String">Антиструмин -Д таб 1 мг №100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12488</Data></Cell>
+    <Cell><Data ss:Type="String">Антитуссин таб №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10994</Data></Cell>
+    <Cell><Data ss:Type="String">Антифлу Кидс пак №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8015</Data></Cell>
+    <Cell><Data ss:Type="String">Антифлу пак №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6835</Data></Cell>
+    <Cell><Data ss:Type="String">Антифлу таб №12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23092</Data></Cell>
+    <Cell><Data ss:Type="String">Антихрапин аэр 30мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">25219</Data></Cell>
+    <Cell><Data ss:Type="String">Антраль таб 100мг N30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">18075</Data></Cell>
+    <Cell><Data ss:Type="String">Антраль таб 200 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1215</Data></Cell>
+    <Cell><Data ss:Type="String">Анузол супп №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91392</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Аква Вита д/кожи вок.глаз фл 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91500</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Био-Эко б-м д/губ мёд стик 4,4г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91496</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Б-м д/губ SPF20 мас/какао стик 4,4г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91497</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Б-м д/губ прополис стик 4,4г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91495</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Б-м д/губ пч.воск и гран. стик 4,4г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91499</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Б-м д/губ роза стик 4,4г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91398</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Вайн э-р д/губ и кожи фл 15мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91399</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Вайн э-р д/пов.упруг.кожи бан 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91400</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Вайн э-р ночной крем бан 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91451</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Капсули д/вол.L-цистин упк</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91527</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Кидс зубн/пас гранат/проп туба 50 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91388</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Клизинг пенка очищ. фл 200мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91385</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Клинзинг гель очищ. фл 200мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91386</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Клинзинг лосьон очищ. фл 200мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91502</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Королевский мед кр/обог. бан 200мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91415</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Маска Повыш.упруг. кожи туба 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91536</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Менс Кеа б-м п/бритья фл 100мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91410</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Натур.сыворотка Сияние фл 15 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91526</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Отбел.з/п мастика и проп. туба 75мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91447</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Прополайн шамп.чайн.д/мёд фл 250мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91560</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Санкеа крем легк. SPF30 туба 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91559</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Санкеа тон.крем SPF30 туба 50мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91424</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс бьюти гель абр. саше 2*8мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91430</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс бьюти маска мёд саше 2*8 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91422</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс бьюти увл.алое саше 2*8 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91421</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс бьюти увл.кермек саше 2*8 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91435</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс голд мат.молочко саше 2*8 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">97123</Data></Cell>
+    <Cell><Data ss:Type="String">Апивита Экспресс голд с опунцией саше 2*8 мл Акция</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3975</Data></Cell>
+    <Cell><Data ss:Type="String">Апизартрон мазь 20г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1041</Data></Cell>
+    <Cell><Data ss:Type="String">Апилак Гриндекс таб 10 мг №25</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90577</Data></Cell>
+    <Cell><Data ss:Type="String">Апилак Гриндекс таб 10мг №50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4093</Data></Cell>
+    <Cell><Data ss:Type="String">Апилак мазь 3 % 50  №1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96402</Data></Cell>
+    <Cell><Data ss:Type="String">Апи-норм супп №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96401</Data></Cell>
+    <Cell><Data ss:Type="String">Апи-норм супп.ваг. №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26459</Data></Cell>
+    <Cell><Data ss:Type="String">Апипрост капс №60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29207</Data></Cell>
+    <Cell><Data ss:Type="String">Апифарм кап д/носа 10мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29208</Data></Cell>
+    <Cell><Data ss:Type="String">Апифарм от храпа кап 10 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29209</Data></Cell>
+    <Cell><Data ss:Type="String">Апифарм с цикламеном кап 10мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">91679</Data></Cell>
+    <Cell><Data ss:Type="String">Апифарм с цикламеном спр 20 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28485</Data></Cell>
+    <Cell><Data ss:Type="String">Апонил таб 100 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">84053</Data></Cell>
+    <Cell><Data ss:Type="String">Апровель таб 300 мг №28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">96403</Data></Cell>
+    <Cell><Data ss:Type="String">Аптека Волос диет. добавка капс №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2222</Data></Cell>
+    <Cell><Data ss:Type="String">Аптечка транспортная шт</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">97283</Data></Cell>
+    <Cell><Data ss:Type="String">Аптечка универсальная б/марган.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5505</Data></Cell>
+    <Cell><Data ss:Type="String">Аралии настойка фл 50 мл</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86962</Data></Cell>
+    <Cell><Data ss:Type="String">Арбивир капс 100 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">86963</Data></Cell>
+    <Cell><Data ss:Type="String">Арбивир таб 50 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80096</Data></Cell>
+    <Cell><Data ss:Type="String">Арбивир Форте таб 200 мг №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">24736</Data></Cell>
+    <Cell><Data ss:Type="String">Аргедин Босналек крем 1 % 40 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">15712</Data></Cell>
+    <Cell><Data ss:Type="String">Аргосульфан крем туба 2 % 15 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8032</Data></Cell>
+    <Cell><Data ss:Type="String">Аргосульфан крем туба 2 % 40 г</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">82554</Data></Cell>
+    <Cell><Data ss:Type="String">Ареклок таб 50 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">23117</Data></Cell>
+    <Cell><Data ss:Type="String">Арикстра шпр 2,5 мг 0,5 мл №10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">90580</Data></Cell>
+    <Cell><Data ss:Type="String">Аритмил р-р д/ин. амп 50мг/мл 3мл №5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6121</Data></Cell>
+    <Cell><Data ss:Type="String">Аритмил таб 200 мг №20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87520</Data></Cell>
+    <Cell><Data ss:Type="String">Арифам таб 1,5 мг/10 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">87521</Data></Cell>
+    <Cell><Data ss:Type="String">Арифам таб 1,5 мг/5мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5683</Data></Cell>
+    <Cell><Data ss:Type="String">Арифон Ретард таб 1,5 мг №30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30212</Data></Cell>
+    <Cell><Data ss:Type="String">Аркоксия таб 120 мг №7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">80316</Data></Cell>
+    <Cell><Data ss:Type="String">Аркоксия таб 60 мг №28</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
